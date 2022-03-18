@@ -1,0 +1,1 @@
+            image     = apply_transform(transform, image, self.transform_parameters)

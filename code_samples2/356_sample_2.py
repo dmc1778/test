@@ -1,0 +1,1 @@
+        ('agent_indices', np.int64, neighborhood_size),

@@ -1,0 +1,1 @@
+    outputs = tf.transpose(outputs, (1, 0, 2))

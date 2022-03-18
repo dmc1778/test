@@ -1,0 +1,1 @@
+    return tf.nn.dropout(units, rate=1-keep_prob, noise_shape=noise_shape)

@@ -1,0 +1,1 @@
+    assert_allclose(out, out2)

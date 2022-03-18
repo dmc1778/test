@@ -1,0 +1,1 @@
+        x = np.random.randn(nb_samples, input_dim).astype(floatX)

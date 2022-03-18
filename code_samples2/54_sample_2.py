@@ -1,0 +1,1 @@
+        FULLVERSION += '.dev0+' + GIT_REVISION[:7]

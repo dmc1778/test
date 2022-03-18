@@ -1,0 +1,1 @@
+        mom1_out = (beta1 * mom1) + (1 - beta1) * grad

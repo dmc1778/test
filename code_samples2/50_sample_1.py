@@ -1,0 +1,1 @@
+    v = np.float32([value])

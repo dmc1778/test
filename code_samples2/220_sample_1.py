@@ -1,0 +1,1 @@
+                    target_pi = tf.one_hot(target_pi, self.a_counts, dtype=tf.float32)

@@ -1,0 +1,1 @@
+    s = np.sqrt(2. / fan_in)

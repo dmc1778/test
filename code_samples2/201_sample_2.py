@@ -1,0 +1,6 @@
+          np.datetime64('NaT'),
+        ([np.timedelta64(2, 's'),
+          np.timedelta64(1, 's'),
+          np.timedelta64('NaT', 's'),
+          np.timedelta64(3, 's')], 1),
+        ([np.timedelta64('NaT', 's')] * 3, 0),

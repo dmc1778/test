@@ -1,0 +1,1 @@
+            image     = np.swapaxes(apply_transform(transform, np.swapaxes(image, 0, 1), self.transform_parameters), 0, 1)

@@ -1,0 +1,1 @@
+        processed = tf.reshape(processed, (T, B, H, W, C))

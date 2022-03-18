@@ -1,0 +1,1 @@
+numpy.random.seed(0)

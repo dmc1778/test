@@ -1,0 +1,1 @@
+        return tf.where(x > 0, res, alpha * res)

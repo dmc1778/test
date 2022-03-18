@@ -1,0 +1,5 @@
+      # fc6 = slim.conv2d(pool5, 4096, [7, 7], padding='VALID', scope='fc6')
+      pool5_flat = slim.flatten(pool5, scope='flatten')
+      fc6 = slim.fully_connected(pool5_flat, 4096, scope='fc6')
+      # fc7 = slim.conv2d(fc6, 4096, [1, 1], scope='fc7')
+      fc7 = slim.fully_connected(fc6, 4096, scope='fc7')

@@ -1,0 +1,1 @@
+        assert_raises(ValueError, sample, -1,3)

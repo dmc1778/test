@@ -1,0 +1,1 @@
+    long_str_arr = np.empty(10, dtype='S279291')

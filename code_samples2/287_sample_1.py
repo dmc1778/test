@@ -1,0 +1,1 @@
+outputs = layers.Dense(1000)(x)

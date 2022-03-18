@@ -1,0 +1,1 @@
+            values = np.rollaxis(values, 0, axis + 1)

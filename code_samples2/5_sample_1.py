@@ -1,0 +1,1 @@
+        shape = (tf.shape(x)[0], ) + shape[1:]

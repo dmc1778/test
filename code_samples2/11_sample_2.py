@@ -1,0 +1,1 @@
+        x = np.ones((nb_samples, input_dim)).astype(K.floatx())

@@ -1,0 +1,1 @@
+    p_obj = metrics.Precision(thresholds=[0.5, 1.1])

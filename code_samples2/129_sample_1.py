@@ -1,0 +1,1 @@
+        y = np.reshape(y, (-1, yshape[-1]))  # for time-distributed data, collapse time and sample

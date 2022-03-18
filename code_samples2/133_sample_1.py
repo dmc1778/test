@@ -1,0 +1,1 @@
+model_utils.print_model_layer_shapes(model, [(1, 1, 28, 28), (1, 784)])

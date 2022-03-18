@@ -1,0 +1,1 @@
+        return np.lib.utils._median_nancheck(part, rout, axis, out)

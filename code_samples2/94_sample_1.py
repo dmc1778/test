@@ -1,0 +1,1 @@
+        return tf.select(x > 0, res, alpha * res)

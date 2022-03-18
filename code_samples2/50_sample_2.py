@@ -1,0 +1,1 @@
+    v = np.asarray(value)

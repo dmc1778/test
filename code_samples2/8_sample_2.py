@@ -1,0 +1,1 @@
+        self.sess = K.get_session()

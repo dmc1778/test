@@ -1,0 +1,1 @@
+        return tf.eye(n, m, dtype=dtype, name=name)

@@ -1,0 +1,1 @@
+            a = np.random.randint(0, self.a_counts, self.n_agents)

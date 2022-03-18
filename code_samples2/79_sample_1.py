@@ -1,0 +1,1 @@
+    base_anchor = keras.backend.cast([0, 0, base_size, base_size], keras.backend.floatx())

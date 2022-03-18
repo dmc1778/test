@@ -1,0 +1,1 @@
+        return np._bop(self, other)
